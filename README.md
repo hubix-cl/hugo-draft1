@@ -1,2 +1,2 @@
-# hugo-draft1
-playing with hugo
+# Probando hugo
+Siguiendo tutorial de hugo y profundizando en go!
